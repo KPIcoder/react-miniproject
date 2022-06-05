@@ -1,0 +1,16 @@
+h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.MovieCardContainer {
+    text-decoration: none;
+    max-width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.MovieCardContainer a{
+    text-decoration: none;
+    color: black;
+}
